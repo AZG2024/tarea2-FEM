@@ -1,0 +1,64 @@
+body {
+  background-color: #15263f;
+}
+.cajaprincipal {
+  width: 100%;
+  background-color: #15263f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cartanft {
+  background-color: #2e405a;
+  border-radius: 1em;
+  padding: 1em;
+  box-sizing: border-box;
+
+  width: 30%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.imagen img {
+  border-radius: 1em;
+  width: 100%;
+}
+
+h1 {
+  color: white;
+  margin-left: 1em;
+}
+p {
+  color: aliceblue;
+  margin-left: 2em;
+}
+.ethh {
+  color: #00fff8;
+  margin-left: 2em;
+}
+
+.days {
+  color: #8bacd9;
+  margin-left: 3em;
+}
+.autor {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+.fotoautor {
+  width: 10%;
+  border: white solid 1px;
+  border-radius: 100px;
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+.nombre {
+  color: #8bacd9;
+  margin-bottom: 1em;
+}
+.linea {
+  width: 100%;
+  border: white solid 0.5px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
